@@ -1,0 +1,5 @@
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 296-307-568
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2020 14:15:47] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [02/Dec/2020 14:15:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
